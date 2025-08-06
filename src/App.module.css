@@ -1,0 +1,14 @@
+:root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  --color-main: #333;
+  --color-secondary: #e1e1e1;
+  --color-accent: #c3ff00;
+}
+
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background-color: var(--color-accent);
+  padding: 2rem;
+}
